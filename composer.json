@@ -1,5 +1,5 @@
 {
-  "name": "friendsoftypo3headless/headless-bootstrap-package",
+  "name": "splintnet/typo3-headless-bootstrap-package",
   "description": "This extension provides integration with bootstrap_package to output content from TYPO3 in JSON format.",
   "license": [
     "GPL-2.0-or-later"
@@ -25,9 +25,9 @@
   ],
   "require": {
     "php": "^7.4 || ^8.0",
-    "bk2k/bootstrap-package": "^13.0",
-    "friendsoftypo3/headless": "^3.0.3",
-    "typo3/cms-core": "^11.5"
+    "bk2k/bootstrap-package": "^14.0",
+    "friendsoftypo3/headless": "^4.0.0",
+    "typo3/cms-core": "^12.4"
   },
   "require-dev": {
     "ext-json": "*",
