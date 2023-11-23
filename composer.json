@@ -1,5 +1,5 @@
 {
-  "name": "friendsoftypo3headless/headless-bootstrap-package",
+  "name": "splintnet/typo3-headless-bootstrap-package",
   "description": "This extension provides integration with bootstrap_package to output content from TYPO3 in JSON format.",
   "license": [
     "GPL-2.0-or-later"
